@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BilelBelguith
 - 👀 I’m interested in Mobile app development 
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 belghithbilel@iit.ens.tn
 
 <!---
