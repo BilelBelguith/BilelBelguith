@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BilelBelguith
 - 👀 I’m interested in Mobile app development 
 - 🌱 I’m currently learning Flutter
-- 📫 belghithbilel@iit.ens.tn
+- 📫 Bilel_belguith@hotmail.com
 
 <!---
 BilelBelguith/BilelBelguith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
