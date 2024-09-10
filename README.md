@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BilelBelguith
-- 👀 I’m interested in Mobile app development 
-- 🌱 Future<App> Work ( Flutter , Firebase) async {}
+- 👀 DevOps Engineer
 - 📫 Bilel_belguith@hotmail.com
 
 <!---
